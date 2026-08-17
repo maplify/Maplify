@@ -1,0 +1,9 @@
+{
+  "app-name": "Maplify",
+  "updates": [
+    {
+      "version": "1.0.0",
+      "devlog": "First version"
+    }
+  ]
+}
